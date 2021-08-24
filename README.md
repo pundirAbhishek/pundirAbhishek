@@ -25,8 +25,8 @@ A software engineer focused on all things Tech.
 
 <p align="left">
 <a href="https://twitter.com/_pundirAbhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pundirAbhishek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pundirAbhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pundirAbhishek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abhishek-pundir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pundirAbhishek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pundir-abhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pundirAbhishek" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9631165/abhishek-pundir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pundirAbhishek" height="30" width="40" /></a>
 <a href="https://medium.com/@_pundirAbhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="pundirAbhishek" height="30" width="40" /></a>
 </p>
 
