@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pundirAbhishek/pundirAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,9 +23,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: abhishekpundir526@gmail.com
 - 📝 I regularly write articles on https://medium.com/@_pundirAbhishek
 
+
 ![](https://github-profile-trophy.vercel.app/?username=pundirAbhishek)
 
 ### Connect with me:
+
+
 
 <p align="left">
 <a href="https://twitter.com/_pundirAbhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pundirAbhishek" height="30" width="40" /></a>
