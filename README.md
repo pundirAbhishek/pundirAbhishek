@@ -5,19 +5,25 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Anroid, Machine Learning
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on anything Tech.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: abhishekpundir526@gmail.com
+- 📝 I regularly write articles on https://medium.com/@_pundirAbhishek
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi 👋, I'm Abhishek Pundir</h1>
+<h3 align="center">A software engineer focused on all things Tech.</h3>
 
-# Hi 👋, I'm Abhishek Pundir
-A software engineer focused on all things Tech.
+- 🔭 I’m currently working on Anroid, Machine Learning
+- 👯 I’m looking to collaborate on anything Tech.
+- 💬 Ask me about Android, Machine Learning, Data Science, NLP, Backend.
+- 📫 How to reach me: abhishekpundir526@gmail.com
+- 📝 I regularly write articles on https://medium.com/@_pundirAbhishek
 
 ![](https://github-profile-trophy.vercel.app/?username=pundirAbhishek)
 
