@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhishek Pundir</h1>
 <h3 align="center">A software engineer focused on all things Tech.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pundirAbhishek" alt="pundirAbhishek" /> </p>
+
+
 - 🔭 I’m currently working on Anroid, Machine Learning
 - 👯 I’m looking to collaborate on anything Tech.
 - 💬 Ask me about Android, Machine Learning, Data Science, NLP, Backend.
