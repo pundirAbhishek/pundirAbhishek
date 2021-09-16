@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://twitter.com/_pundirAbhishek" target="blank"><img align="center" src="/Icons/twitter-logo.svg" height="40"  width="50"/></a>  
-<a href="https://twitter.com/_pundirAbhishek" target="blank"><img align="center" src="/Icons/linkedin-logo.svg" height="40"  width="50"/></a>
-<a href="https://twitter.com/_pundirAbhishek" target="blank"><img align="center" src="/Icons/stackoverflow-logo.svg" height="40"  width="50"/></a>
-<a href="https://twitter.com/_pundirAbhishek" target="blank"><img align="center" src="/Icons/kaggle-logo.svg" height="40"  width="50"/></a>
-<a href="https://twitter.com/_pundirAbhishek" target="blank"><img align="center" src="/Icons/medium-logo.svg" height="50"  width="50"/></a>
+<a href="https://linkedin.com/in/pundir-abhishek" target="blank"><img align="center" src="/Icons/linkedin-logo.svg" height="40"  width="50"/></a>
+<a href="https://stackoverflow.com/users/9631165/abhishek-pundir" target="blank"><img align="center" src="/Icons/stackoverflow-logo.svg" height="40"  width="50"/></a>
+<a href="https://www.kaggle.com/abhishekpundir" target="blank"><img align="center" src="/Icons/kaggle-logo.svg" height="40"  width="50"/></a>
+<a href="https://medium.com/@_pundirAbhishek" target="blank"><img align="center" src="/Icons/medium-logo.svg" height="50"  width="50"/></a>
 </p>
 
 ### Languages and Tools
