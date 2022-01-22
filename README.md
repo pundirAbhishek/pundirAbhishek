@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android, Machine Learning, Data Science, NLP, Backend.
 - 📫 How to reach me: abhishekpundir526@gmail.com
 - 📝 I regularly write articles on https://medium.com/@_pundirAbhishek
-- 💬 Ask me anything, I will be more than happy to help :D
+- 💬 Ask me anything, I will be more than happy to help 😃
 
 
 <h2>Summary </h2>
